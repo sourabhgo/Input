@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PreventMultiple", "PreventMultiple.vcxproj", "{CBDDC990-827A-4324-B795-B6AD5DC68E2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDDC990-827A-4324-B795-B6AD5DC68E2E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBDDC990-827A-4324-B795-B6AD5DC68E2E}.Debug|Win32.Build.0 = Debug|Win32
+		{CBDDC990-827A-4324-B795-B6AD5DC68E2E}.Release|Win32.ActiveCfg = Release|Win32
+		{CBDDC990-827A-4324-B795-B6AD5DC68E2E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
